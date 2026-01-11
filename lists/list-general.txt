@@ -45,3 +45,7 @@ betterttv.net
 7tv.app
 7tv.io
 localizeapi.com
+minecraft-services.net
+xboxlive.com
+playfabapi.com
+microsoft.com
