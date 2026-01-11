@@ -49,3 +49,11 @@ minecraft-services.net
 xboxlive.com
 playfabapi.com
 microsoft.com
+me-api.org
+playfabapi.com
+minecrafteduservices.com
+microsoftonline.com
+live.com
+msauth.net
+msftauth.net
+minecraft.net
